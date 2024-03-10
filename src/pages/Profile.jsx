@@ -10,7 +10,7 @@ const Profile = () => {
   // Generate a unique QR code for the user's profile page
   const generateQRCode = async () => {
     try {
-      const qrCodeData = `https://localhost:3000/profile/${currentUser.uid}`;
+      const qrCodeData = `https://social-media-login-and-signup-flow-cjmvvd7af.vercel.app/profile/${currentUser.uid}`;
 
       const qrCodeUrl = await QRCode.toDataURL(qrCodeData);
       console.log(qrCodeUrl);
