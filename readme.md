@@ -20,7 +20,8 @@ How to Use
 2.install the dependencies by running the command : npm install
 3.run the web page using command : npm start
 
-Topop Internship Project
+Topop Internship Project :
+
 This project was created as a task for an internship process. It showcases the basics of web development using Reactjs, Express.js , MongoDB, Next.js as a MERN full stack project with the use of firebase. The goal was to demonstrate responsiveness and provide a simple and functional social media login and signup work-flow.
 
 Technologies Used: 
