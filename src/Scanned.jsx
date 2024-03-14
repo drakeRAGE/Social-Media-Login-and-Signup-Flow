@@ -60,7 +60,7 @@ const Scanned = () => {
           </div>
         </section>
       ) : (
-        <p>Wrong user details...</p>
+        <p>Wait Fetching Details...</p>
       )}
     </div>
   );
